@@ -1,8 +1,6 @@
-
 h1 {
     color: rgb(8, 8, 196);
     text-decoration-style: solid;
-    position: center;
 }
 
 body {
@@ -14,5 +12,5 @@ nav ul {
     cursor: pointer;
     color: rgb(253, 8, 8);
     border: none;
-     border-radius: 5px;
+    border-radius: 5px;
 }
